@@ -1,6 +1,6 @@
-# Hello there! 👋 I'm [Tobias Bjelk]!
+# Hello there! 👋 I'm Tobias Bjelk!
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tobiasbjelk&show_icons=true&theme=radical" alt="Tobias Bjelk's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tobiasbjelk&show_icons=true&theme=radical" alt="Tobias Bjelk's GitHub Stats" />
 
 ## About Me 🚀
 
