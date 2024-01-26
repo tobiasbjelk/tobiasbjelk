@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-- 🎓 I'm a **Cloud Architect** based in [Skåne, Sweden].
+- 🎓 I'm a **Cloud Architect** based in Skåne, Sweden.
 - 🔭 I’m currently working on **[Articles for my tech blog](https://bjelk.dev)**.
 - 🌱 I’m always trying to learn something new. Currently diving deep into **golang** and **azure functions**.
 - 📫 How to reach me: [tobias@bjelk.dev](mailto:tobias@bjelk.dev)
