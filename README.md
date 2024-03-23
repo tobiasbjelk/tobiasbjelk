@@ -5,8 +5,8 @@
 ## About Me 🚀
 
 - 🎓 I'm a **Cloud Architect** based in Skåne, Sweden.
-- 🌱 I’m always trying to learn something new. Currently diving deep into **golang** and **azure functions**.
-- 📫 How to reach me: [tobias@gmail.com](mailto:tobias@gmail.com)
+- 🌱 I’m always trying to learn something new. Currently diving deep into **golang** and **AWS Architecture**.
+- 📫 How to reach me: [tobias.bjelk@gmail.com](mailto:tobias.bjelk@gmail.com)
 
 ## Tech Stack 🛠
 
